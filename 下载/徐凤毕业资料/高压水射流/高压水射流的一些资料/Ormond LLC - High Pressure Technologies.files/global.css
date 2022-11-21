@@ -1,0 +1,57 @@
+BODY {
+	FONT-SIZE: 14px; COLOR: #000000; LINE-HEIGHT: 1em; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+TD {
+	FONT-SIZE: 14px; COLOR: #000000; LINE-HEIGHT: 1em; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+TH {
+	FONT-SIZE: 14px; COLOR: #000000; LINE-HEIGHT: 1em; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+#wrapper {
+	MARGIN: auto; WIDTH: 1000px; POSITION: relative
+}
+#navColumn {
+	BORDER-RIGHT: #309 1px solid; BORDER-TOP: #309 1px solid; DISPLAY: block; LEFT: 0px; FLOAT: left; BORDER-LEFT: #309 1px solid; WIDTH: 200px; BORDER-BOTTOM: #309 1px solid; POSITION: absolute; TOP: 0px; HEIGHT: 730px; BACKGROUND-COLOR: #fefadc
+}
+#navColumn A {
+	PADDING-RIGHT: 3px; DISPLAY: block; PADDING-LEFT: 12px; FONT-WEIGHT: bold; FONT-SIZE: 13px; PADDING-BOTTOM: 5px; COLOR: #000; LINE-HEIGHT: 1.3em; PADDING-TOP: 12px; FONT-FAMILY: Arial, Helvetica, sans-serif; LETTER-SPACING: 0.02em; TEXT-DECORATION: none
+}
+#navColumn A:hover {
+	TEXT-DECORATION: underline
+}
+#contentColumn {
+	BORDER-RIGHT: #000 1px solid; BORDER-TOP: #000 1px solid; DISPLAY: block; LEFT: 202px; FLOAT: left; OVERFLOW-X: hidden; OVERFLOW: auto; BORDER-LEFT: #000 1px solid; WIDTH: 800px; BORDER-BOTTOM: #000 1px solid; ZOOM: 1; POSITION: absolute; TOP: 0px; HEIGHT: 730px; BACKGROUND-COLOR: #ffffff
+}
+.page {
+	PADDING-RIGHT: 40px; PADDING-LEFT: 50px; FONT-FAMILY: Arial, Helvetica, sans-serif; POSITION: relative
+}
+.page H1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; PADDING-BOTTOM: 0.2em; PADDING-TOP: 0.5em; LETTER-SPACING: 0.05em
+}
+.page H3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; PADDING-BOTTOM: 0.1em; PADDING-TOP: 0.3em; FONT-STYLE: italic; LETTER-SPACING: 0.05em
+}
+.page H4 {
+	DISPLAY: block; FONT-WEIGHT: bold; FONT-SIZE: 14px; PADDING-BOTTOM: 0em; LINE-HEIGHT: 1.3em; PADDING-TOP: 0em; LETTER-SPACING: 0.03em
+}
+.page H5 {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; PADDING-BOTTOM: 0.1em; PADDING-TOP: 0.3em; FONT-STYLE: italic; LETTER-SPACING: 0.03em
+}
+.page P {
+	FONT-SIZE: 14px; PADDING-BOTTOM: 0.6em; LINE-HEIGHT: 1.25em; PADDING-TOP: 0em; TEXT-ALIGN: justify
+}
+#customerList {
+	DISPLAY: block; POSITION: relative
+}
+.page UL {
+	DISPLAY: block; LEFT: 50px
+}
+.page LI {
+	PADDING-LEFT: 0.3em; FONT-SIZE: 14px; PADDING-BOTTOM: 0em; MARGIN-LEFT: 15px; LINE-HEIGHT: 1.2em; PADDING-TOP: 0.2em; POSITION: relative
+}
+P.pictureCaption {
+	FONT-STYLE: italic; TEXT-ALIGN: center
+}
+P.contacts {
+	FONT-SIZE: 16px
+}
